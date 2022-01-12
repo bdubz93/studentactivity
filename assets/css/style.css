@@ -53,12 +53,6 @@
     clear: both;
   }
   
-  /* Responsive layout */
-  @media screen and (max-width: 600px) {
-    .column.middle .info{
-      width: 100%;
-    }
-  }
     /* Image Styling */
   img {
     border: 5px solid #555;
